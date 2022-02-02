@@ -34,11 +34,11 @@ A breakdown of what days of the week a user might be more likely to check out a 
 Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
 
-1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
+1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour
     
 Refer to #Image of the deliverable requirement: Resources\Trip by weekday per hour.PNG
 
-2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
+2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender
     
 Refer to #Image of the deliverable requirement: Resources\By gender and number of bikes.PNG
 
@@ -46,11 +46,11 @@ Refer to #Image of the deliverable requirement: Resources\By gender and number o
    
  Refer to #Image of the deliverable requirement: Resources\Module14- Deliverable2_Trips by Day per hour.PNG
 
-4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
+4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
     
 Refer to #Image of the deliverable requirement: Resources\By gender,weekday and hours.PNG
 
-5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
+5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
    
 Refer to #Image of the deliverable requirement: Resources\Gender and weekday.PNG
 
