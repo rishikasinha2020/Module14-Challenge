@@ -79,9 +79,9 @@ Results & Summary:
 There are at least seven visualizations for the NYC Citibike analysis.
 
 Some additional Visualizations that were created using Tablaeu found here
-    https://public.tableau.com/app/profile/rishika.sinha2706/viz/Module14-BikeSharing-TopEndingLocation/BikeSharingStory?publish=yes
 
-    https://public.tableau.com/app/profile/rishika.sinha2706/viz/Module14-NYCCitibikesanalysis/NYCCitibikeanalysis?publish=yes
+https://public.tableau.com/app/profile/rishika.sinha2706/viz/Module14-BikeSharing-TopEndingLocation/BikeSharingStory?publish=yes
+https://public.tableau.com/app/profile/rishika.sinha2706/viz/Module14-NYCCitibikesanalysis/NYCCitibikeanalysis?publish=yes
 
 
 
